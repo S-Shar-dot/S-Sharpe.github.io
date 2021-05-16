@@ -13,10 +13,10 @@ primarylinks:
    url: 
  - title: GitHub
    url: https://github.com/
- - title: StackOverflow
-   url: 
- - title: DZone
-   url: 
+ #- title: StackOverflow
+ #  url: 
+ #- title: DZone
+ #  url: 
  - title: LinkedIn
    url: https://www.linkedin.com/in/steven-sharpe-303
  #- title: Food
@@ -41,16 +41,15 @@ skills:
  - Security Onion
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
+#blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
- - title: CTO
-   start: 2017
-   end: Ongoing
-   employer: Basement Crowd
-   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
- - title: Senior Engineer
+ - title: Networked Technologies Engineer
+   start: 2013
+   end: 20202
+   employer: Self Employed
+   description: 7 years industry experience design and installation of secure network and safety assets inside the energy-sector and construction projects.
    start: 2016
    end: 2017
    employer: Emerald Street Ventures
