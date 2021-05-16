@@ -10,21 +10,21 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: Blog
-   url: https://automateddeveloper.blogspot.com/
+   url: 
  - title: GitHub
-   url: https://github.com/robhinds
+   url: https://github.com/
  - title: StackOverflow
-   url: https://stackoverflow.com/users/258813/rhinds
+   url: 
  - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
+   url: 
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+   url: https://www.linkedin.com/in/steven-sharpe-303
  - title: Food
    url: https://www.robbishfood.com/
 
 #Any buzzword skills you want to include
 skills:
- - Scala
+ - Security
  - Akka-http
  - Microservices
  - Slick
@@ -112,9 +112,9 @@ github:
  - robhinds/ElasticSearchGradle
 
 #Stackoverflow flair is optional
-stackoverflow:
-   profileurl: https://stackoverflow.com/users/258813/rhinds
-   flairimageurl: https://stackoverflow.com/users/flair/258813.png
+#stackoverflow:
+  # profileurl: https://stackoverflow.com/users/258813/rhinds
+  # flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
 intro: |
   I have primarily worked on the JVM, but have worked across a broad range of technologies thereon: Java, Groovy, Android, Coldfusion and most recently Scala. As well as spending a reasonable amount of time building applications for the web, which has given me an exposure to a range of javascript technologies over the years, through jQuery, extjs, knockout, backbone and most recently to React. <br/><br/>
