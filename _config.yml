@@ -117,12 +117,17 @@ github:
   # profileurl: https://stackoverflow.com/users/258813/rhinds
   # flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
-intro: |
-  Cybersecurity analyst focused on research, data analysis and creative problem-solving.
-  Scanning internal datasets to detect system vulnerabilities and cyber attackers.
-  Drawing on external intelligence to predict and prepare for future cyber threats.
-  Connecting the dots with other functions of an organization.
-  Communication of security functions to managers and stakeholders.
+intro: |Since the 1990’s I have had a passion for what was then simply called computing, an area that has grown to what we now know as information and networking technologies and the many associated fields.
+
+       I have closely followed and used the latest developments and emerging technologies as they have transformed from niche specialities into mainstream popular usage.
+
+       Along the way my knowledge and patience has often been tested but my curious and persistent mindset has always guided the way forwards, utilizing my skills in hardware, systems and coding to solve problems and overcome challenges.
+
+       Cybersecurity analyst focused on research, data analysis and creative problem-solving.
+       Scanning internal datasets to detect system vulnerabilities and cyber attackers.
+       Drawing on external intelligence to predict and prepare for future cyber threats.
+       Connecting the dots with other functions of an organization.
+       Communication of security functions to managers and stakeholders.
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
    <strong>Scala</strong>: My current role uses Scala as the primary language and have been building applications in Scala for the last two years. I am familiar with a range of Scala libraries, such as <a target="_blank" href="https://automateddeveloper.blogspot.com/2017/12/an-opinionated-guide-to-building-apis.html"> Akka-Http for building microservices</a> and <a target="_blank" href="https://automateddeveloper.blogspot.com/2018/09/generic-programming-with-scala.html"> Shapeless for generic programming</a>, as well as familiar with a range of <a target="_blank" href="https://basementcrowd.com/2018/11/28/scala-the-aux-pattern-path-dependent-types/" >functional programming techniques available</a>.<br/><br/>
