@@ -117,7 +117,8 @@ github:
   # profileurl: https://stackoverflow.com/users/258813/rhinds
   # flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
-intro: |Since the 1990’s I have had a passion for what was then simply called computing, an area that has grown to what we now know as information and networking technologies and the many associated fields.
+intro: 
+       Since the 1990’s I have had a passion for what was then simply called computing, an area that has grown to what we now know as information and networking technologies and the many associated fields.
 
        I have closely followed and used the latest developments and emerging technologies as they have transformed from niche specialities into mainstream popular usage.
 
